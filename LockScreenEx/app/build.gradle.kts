@@ -1,6 +1,7 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.jetbrains.kotlin.android)
+    id("kotlinx-serialization")
 }
 
 android {
@@ -70,17 +71,17 @@ dependencies {
     implementation(libs.accompanist.permissions)
 
     //Ktor
-    implementation("io.ktor:ktor-client-android:2.1.3")
+    implementation("io.ktor:ktor-client-android:2.3.4")
 
     //JVM, Android 및 Native 플랫폼에서 사용할 수 있는 완전 비동기식 코루틴 기반 엔진
-    implementation("io.ktor:ktor-client-cio:2.1.3")
+    implementation("io.ktor:ktor-client-cio:2.3.4")
 
     //HTTP Request을 로깅하기 위해 사용
-    implementation("io.ktor:ktor-client-logging-jvm:2.1.3")
+    implementation("io.ktor:ktor-client-logging-jvm:2.3.4")
 
     //직렬화/역직렬화를 위한 ContentNegotiation
-    implementation("io.ktor:ktor-client-content-negotiation:2.1.3")
+    implementation("io.ktor:ktor-client-content-negotiation:2.3.4")
 
     //Serialization json
-    implementation("io.ktor:ktor-serialization-kotlinx-json:2.1.3")
+    implementation("io.ktor:ktor-serialization-kotlinx-json:2.3.4")
 }
