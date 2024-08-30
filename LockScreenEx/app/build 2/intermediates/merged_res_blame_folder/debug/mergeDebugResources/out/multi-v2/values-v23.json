@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.lockscreenex.app-mergeDebugResources-51:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/eun-ogim/.gradle/caches/transforms-4/cd90c845ca5e5dfd1d5fc771fe656719/transformed/work-runtime-2.9.1/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}

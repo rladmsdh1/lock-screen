@@ -1,0 +1,55 @@
+com.example.lockscreenex.app-room-runtime-2.5.0-0 /Users/eun-ogim/.gradle/caches/transforms-4/04d144beff743218999cbc5f97657dc5/transformed/room-runtime-2.5.0/res
+com.example.lockscreenex.app-activity-compose-1.9.1-1 /Users/eun-ogim/.gradle/caches/transforms-4/10c27509b995b4426073ff6cbf7285c0/transformed/activity-compose-1.9.1/res
+com.example.lockscreenex.app-lifecycle-livedata-core-ktx-2.8.4-2 /Users/eun-ogim/.gradle/caches/transforms-4/163b1d9fd69322f8912f10560a9ddd62/transformed/lifecycle-livedata-core-ktx-2.8.4/res
+com.example.lockscreenex.app-lifecycle-runtime-ktx-release-3 /Users/eun-ogim/.gradle/caches/transforms-4/19899a004baa4cf6bf4224e3f0380fc5/transformed/lifecycle-runtime-ktx-release/res
+com.example.lockscreenex.app-lifecycle-livedata-2.8.4-4 /Users/eun-ogim/.gradle/caches/transforms-4/3bc6bc5fb86501de2175a871fc21b3b0/transformed/lifecycle-livedata-2.8.4/res
+com.example.lockscreenex.app-runtime-saveable-release-5 /Users/eun-ogim/.gradle/caches/transforms-4/3e636591827295a0a4cf9b037eeeb068/transformed/runtime-saveable-release/res
+com.example.lockscreenex.app-material-ripple-release-6 /Users/eun-ogim/.gradle/caches/transforms-4/3f626d830f4e2efff4c8112593cfd2e8/transformed/material-ripple-release/res
+com.example.lockscreenex.app-annotation-experimental-1.4.0-7 /Users/eun-ogim/.gradle/caches/transforms-4/4e95fc77f64e9e69257d94ce9290733d/transformed/annotation-experimental-1.4.0/res
+com.example.lockscreenex.app-material-release-8 /Users/eun-ogim/.gradle/caches/transforms-4/4ec480e3b9d8f5ace2b02b9129547e77/transformed/material-release/res
+com.example.lockscreenex.app-lifecycle-process-2.8.4-9 /Users/eun-ogim/.gradle/caches/transforms-4/5d0a92818bb58c3b8430b28f23021de4/transformed/lifecycle-process-2.8.4/res
+com.example.lockscreenex.app-ui-test-manifest-1.6.6-10 /Users/eun-ogim/.gradle/caches/transforms-4/5de74fcda4d6bda6a2129d84c885283a/transformed/ui-test-manifest-1.6.6/res
+com.example.lockscreenex.app-lifecycle-viewmodel-ktx-2.8.4-11 /Users/eun-ogim/.gradle/caches/transforms-4/6165725f00fbab5b42b7670da4d2c822/transformed/lifecycle-viewmodel-ktx-2.8.4/res
+com.example.lockscreenex.app-animation-core-release-12 /Users/eun-ogim/.gradle/caches/transforms-4/64de647a8bd060fcab01bf443e7ca71d/transformed/animation-core-release/res
+com.example.lockscreenex.app-ui-tooling-data-release-13 /Users/eun-ogim/.gradle/caches/transforms-4/6abbeec3f0d4ba3ed5e097179763e4a2/transformed/ui-tooling-data-release/res
+com.example.lockscreenex.app-runtime-release-14 /Users/eun-ogim/.gradle/caches/transforms-4/71331ff74f607a25c1f0e81255af7247/transformed/runtime-release/res
+com.example.lockscreenex.app-lifecycle-runtime-release-15 /Users/eun-ogim/.gradle/caches/transforms-4/71bfab653cdebec5ffd3c60293d9149f/transformed/lifecycle-runtime-release/res
+com.example.lockscreenex.app-core-1.13.1-16 /Users/eun-ogim/.gradle/caches/transforms-4/736bc9d5b7f5d2b64ec63c6455e62b5f/transformed/core-1.13.1/res
+com.example.lockscreenex.app-animation-release-17 /Users/eun-ogim/.gradle/caches/transforms-4/760162fffc0782d421d4df66537207da/transformed/animation-release/res
+com.example.lockscreenex.app-savedstate-1.2.1-18 /Users/eun-ogim/.gradle/caches/transforms-4/766de09323c1558143d3171274d2df9f/transformed/savedstate-1.2.1/res
+com.example.lockscreenex.app-customview-poolingcontainer-1.0.0-19 /Users/eun-ogim/.gradle/caches/transforms-4/77e49447c074a3286e1e935e088eacfd/transformed/customview-poolingcontainer-1.0.0/res
+com.example.lockscreenex.app-ui-unit-release-20 /Users/eun-ogim/.gradle/caches/transforms-4/791ee725c87819e610643b0e23322b53/transformed/ui-unit-release/res
+com.example.lockscreenex.app-activity-ktx-1.9.1-21 /Users/eun-ogim/.gradle/caches/transforms-4/7adc8352837de6b43c85d7ca5178c0fd/transformed/activity-ktx-1.9.1/res
+com.example.lockscreenex.app-ui-graphics-release-22 /Users/eun-ogim/.gradle/caches/transforms-4/7ed5a7ddb657f8d1d58cf2ccc63ac67e/transformed/ui-graphics-release/res
+com.example.lockscreenex.app-emoji2-1.3.0-23 /Users/eun-ogim/.gradle/caches/transforms-4/7fa6e74a29b6aa53bc29d90ca1101fd5/transformed/emoji2-1.3.0/res
+com.example.lockscreenex.app-activity-1.9.1-24 /Users/eun-ogim/.gradle/caches/transforms-4/83c74327e3f4f59503ceea04a3ee16ba/transformed/activity-1.9.1/res
+com.example.lockscreenex.app-ui-util-release-25 /Users/eun-ogim/.gradle/caches/transforms-4/844af759ce19d7824fbc9b0b6a62e101/transformed/ui-util-release/res
+com.example.lockscreenex.app-ui-geometry-release-26 /Users/eun-ogim/.gradle/caches/transforms-4/87553e88439a034bae1205317bf2f0d3/transformed/ui-geometry-release/res
+com.example.lockscreenex.app-lifecycle-viewmodel-release-27 /Users/eun-ogim/.gradle/caches/transforms-4/8d5418a778fcd94dcf7d69bc99e795db/transformed/lifecycle-viewmodel-release/res
+com.example.lockscreenex.app-ui-tooling-preview-release-28 /Users/eun-ogim/.gradle/caches/transforms-4/95f454ee3d16067c1378fd865712b11b/transformed/ui-tooling-preview-release/res
+com.example.lockscreenex.app-core-ktx-1.13.1-29 /Users/eun-ogim/.gradle/caches/transforms-4/973f593e841b52fc829108e884fa5b1f/transformed/core-ktx-1.13.1/res
+com.example.lockscreenex.app-startup-runtime-1.1.1-30 /Users/eun-ogim/.gradle/caches/transforms-4/9b7a39fc85038dc8675f8bc7e01e64d6/transformed/startup-runtime-1.1.1/res
+com.example.lockscreenex.app-ui-text-release-31 /Users/eun-ogim/.gradle/caches/transforms-4/a2bdf5967900be531473d1cf8395ae5d/transformed/ui-text-release/res
+com.example.lockscreenex.app-savedstate-ktx-1.2.1-32 /Users/eun-ogim/.gradle/caches/transforms-4/a7876967de7432ddcd1f45093abb8809/transformed/savedstate-ktx-1.2.1/res
+com.example.lockscreenex.app-sqlite-framework-2.3.0-33 /Users/eun-ogim/.gradle/caches/transforms-4/b06af00645a66349de7c54826280dae3/transformed/sqlite-framework-2.3.0/res
+com.example.lockscreenex.app-foundation-release-34 /Users/eun-ogim/.gradle/caches/transforms-4/b2c896f5ce52347d5f36ffa42fe283d8/transformed/foundation-release/res
+com.example.lockscreenex.app-ui-tooling-release-35 /Users/eun-ogim/.gradle/caches/transforms-4/b9bc4e1166c55f100da4730fbaa27ed4/transformed/ui-tooling-release/res
+com.example.lockscreenex.app-work-runtime-ktx-2.9.1-36 /Users/eun-ogim/.gradle/caches/transforms-4/c34725c59ea10cbc1a9276ae05a94320/transformed/work-runtime-ktx-2.9.1/res
+com.example.lockscreenex.app-lifecycle-viewmodel-savedstate-2.8.4-37 /Users/eun-ogim/.gradle/caches/transforms-4/c60a96a792de9dfb815220be3a190adc/transformed/lifecycle-viewmodel-savedstate-2.8.4/res
+com.example.lockscreenex.app-work-runtime-2.9.1-38 /Users/eun-ogim/.gradle/caches/transforms-4/cd90c845ca5e5dfd1d5fc771fe656719/transformed/work-runtime-2.9.1/res
+com.example.lockscreenex.app-sqlite-2.3.0-39 /Users/eun-ogim/.gradle/caches/transforms-4/ceed8d8cde26aee3df2df4a2cf99bca5/transformed/sqlite-2.3.0/res
+com.example.lockscreenex.app-room-ktx-2.5.0-40 /Users/eun-ogim/.gradle/caches/transforms-4/d53856664785e6d5b36ffe4696562d75/transformed/room-ktx-2.5.0/res
+com.example.lockscreenex.app-foundation-layout-release-41 /Users/eun-ogim/.gradle/caches/transforms-4/dc6d2ce265207e21b4580f8a5f864601/transformed/foundation-layout-release/res
+com.example.lockscreenex.app-profileinstaller-1.3.1-42 /Users/eun-ogim/.gradle/caches/transforms-4/e4b94e886065635e01d5838a432d57a0/transformed/profileinstaller-1.3.1/res
+com.example.lockscreenex.app-lifecycle-service-2.8.4-43 /Users/eun-ogim/.gradle/caches/transforms-4/eb7bb822b402d01ace4f1103d06f80cd/transformed/lifecycle-service-2.8.4/res
+com.example.lockscreenex.app-core-runtime-2.2.0-44 /Users/eun-ogim/.gradle/caches/transforms-4/f017b88e6fbdb2d8d0b39adc929df415/transformed/core-runtime-2.2.0/res
+com.example.lockscreenex.app-lifecycle-livedata-core-2.8.4-45 /Users/eun-ogim/.gradle/caches/transforms-4/f80106a7b916280deba53c3180308e90/transformed/lifecycle-livedata-core-2.8.4/res
+com.example.lockscreenex.app-material-icons-core-release-46 /Users/eun-ogim/.gradle/caches/transforms-4/f8e5832e53128b899e48b61c4e3d6c3f/transformed/material-icons-core-release/res
+com.example.lockscreenex.app-ui-release-47 /Users/eun-ogim/.gradle/caches/transforms-4/f9b949b32c971ab99200f618671e074e/transformed/ui-release/res
+com.example.lockscreenex.app-material3-release-48 /Users/eun-ogim/.gradle/caches/transforms-4/ffa226a6a57282eca789a29622e39c0b/transformed/material3-release/res
+com.example.lockscreenex.app-resValues-49 /Users/eun-ogim/Library/Mobile Documents/com~apple~CloudDocs/Downloads/LockScreenEx/app/build/generated/res/resValues/debug
+com.example.lockscreenex.app-packageDebugResources-50 /Users/eun-ogim/Library/Mobile Documents/com~apple~CloudDocs/Downloads/LockScreenEx/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.lockscreenex.app-packageDebugResources-51 /Users/eun-ogim/Library/Mobile Documents/com~apple~CloudDocs/Downloads/LockScreenEx/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.lockscreenex.app-debug-52 /Users/eun-ogim/Library/Mobile Documents/com~apple~CloudDocs/Downloads/LockScreenEx/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.lockscreenex.app-debug-53 /Users/eun-ogim/Library/Mobile Documents/com~apple~CloudDocs/Downloads/LockScreenEx/app/src/debug/res
+com.example.lockscreenex.app-main-54 /Users/eun-ogim/Library/Mobile Documents/com~apple~CloudDocs/Downloads/LockScreenEx/app/src/main/res
