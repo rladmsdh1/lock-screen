@@ -21,15 +21,21 @@ class ScreenService : Service() {
         return null
     }
 
+    companion object {
+        var isFirstNotification: Boolean = true
+    }
+
     @RequiresApi(Build.VERSION_CODES.O)
     override fun onStartCommand(intent: Intent?, flags: Int, startId: Int): Int {
         super.onStartCommand(intent, flags, startId)
-
         Log.d("TAG", "onStartCommand${this@ScreenService.hashCode()}")
         createNotification()
-        mReceiver = ScreenReceiver()
-        val filter = IntentFilter(Intent.ACTION_SCREEN_ON)
-        registerReceiver(mReceiver, filter)
+        if (isFirstNotification) {
+            mReceiver = ScreenReceiver()
+            val filter = IntentFilter(Intent.ACTION_SCREEN_ON)
+            registerReceiver(mReceiver, filter)
+            isFirstNotification = false
+        }
         restartService()
         return START_STICKY
     }
@@ -74,7 +80,7 @@ class ScreenService : Service() {
         val alarmManager = getSystemService(Context.ALARM_SERVICE) as AlarmManager
         alarmManager.setExactAndAllowWhileIdle(
             AlarmManager.ELAPSED_REALTIME,
-            SystemClock.elapsedRealtime() + (1000 * 20),
+            SystemClock.elapsedRealtime() + (1000 * 60 * 10),
             pendingRestartIntent
         )
     }
@@ -86,7 +92,6 @@ class ScreenService : Service() {
             ScreenReceiver::class.java
         )
         intent.putExtra("com.my.app.notificationId", notificationId)
-
         val pendingIntent =
             PendingIntent.getBroadcast(
                 context.applicationContext,

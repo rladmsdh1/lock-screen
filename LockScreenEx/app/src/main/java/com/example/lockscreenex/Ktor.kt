@@ -25,7 +25,7 @@ object KtorClient {
             logger = object : Logger {
                 override fun log(message: String) {
 
-                    Log.d("test", "api log: $message")
+               //     Log.d("test", "api log: $message")
                 }
             }
             level = LogLevel.ALL

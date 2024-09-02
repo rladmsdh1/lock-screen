@@ -6,6 +6,7 @@ import android.content.Intent
 import android.os.Build
 import android.util.Log
 import androidx.annotation.RequiresApi
+import com.example.lockscreenex.ScreenService.Companion.isFirstNotification
 
 
 class ScreenReceiver : BroadcastReceiver() {
@@ -13,8 +14,10 @@ class ScreenReceiver : BroadcastReceiver() {
     override fun onReceive(context: Context, intent: Intent) {
         Log.d("TAG", "onReceive: ${intent.action}")
         val serviceIntent = Intent(context, ScreenService::class.java)
-        context.startForegroundService(serviceIntent)
-        if (intent.action == Intent.ACTION_BOOT_COMPLETED || intent.action == Intent.ACTION_SCREEN_ON) {
+        if (!isFirstNotification) {
+            context.startForegroundService(serviceIntent)
+        }
+        if (intent.action == Intent.ACTION_BOOT_COMPLETED) {
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
                 context.startForegroundService(serviceIntent)
             } else {
@@ -23,6 +26,8 @@ class ScreenReceiver : BroadcastReceiver() {
         }
         val lockScreenIntent = Intent(context, LockScreenActivity::class.java).apply {
             addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+            addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP)
+            addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP)
         }
         context.startActivity(lockScreenIntent)
     }
